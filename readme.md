@@ -62,6 +62,7 @@ Made with Electron.
 - [Simplenote](https://github.com/Automattic/simplenote-electron) - Note keeper.
 - [Abricotine](https://github.com/brrd/Abricotine) - Markdown editor with inline preview.
 - [Kap](https://github.com/wulkano/kap) - Screen recorder with GIF support.
+- [SnapQL](https://github.com/NickTikhonov/snap-ql) - AI-powered database explorer.
 - [Medis](https://github.com/luin/medis) - Redis database management.
 - [SmartMirror](https://github.com/evancohen/smart-mirror) - Voice controlled smart mirror.
 - [Beaker](https://github.com/beakerbrowser/beaker) - Browser with peer-to-peer web protocols.
